@@ -1,7 +1,10 @@
 # DowntownDexterity
-
+This is an assignment project and is for showcasing the Angular Knowledge I have.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
+# References Taken for the Project
+The Audio Player was referenced from : https://github.com/orahul1/angular-audio-player. Customized it as close to the UI screens provided.
+Also Added a Routing Guard to preventing an unauthorised person accessing the media player screen. Reference for the same was takne from : https://github.com/DMezhenskyi/angular-router-guards-example
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
