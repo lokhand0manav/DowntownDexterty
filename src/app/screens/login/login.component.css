@@ -1,0 +1,103 @@
+/* Required for body*/
+.body-hoopr{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #000000;
+  }
+
+  /*Required for Header*/
+.text-white {
+    color: white;
+  }
+  
+  .text-hoopr {
+    color: #FF3567;
+  }
+  
+  .text-hoopr-header{
+      font-family: "Epilogue", Sans-serif;
+      font-size: 30px;
+      font-weight: 500;
+      line-height: 1.2em;
+  }
+
+  /*Required for Body Button*/
+.hoopr-btn-secondary {
+    font-size: 18px;
+    border-bottom-left-radius: 25px ;
+    border-top-right-radius: 25px ;
+    border-color:#fff;
+    color: #fff;
+    letter-spacing: 3px;
+    line-height: 1;
+    position: static;
+   }
+  
+  .hoopr-btn-secondary-large{
+    padding: 16px 20px;
+  }
+  .hoopr-btn-secondary-small{
+    padding: none;
+  }
+
+  .hoopr-btn-secondary-small:hover{
+   
+    font-size: 18px;
+    background: linear-gradient(130deg, #FF7B7B 0%, #FF3567 100%);
+    border: 0;
+    color: #fff;
+    letter-spacing: 3px;
+    line-height: 1;
+    outline: transparent;
+    position: relative;
+   }
+
+   .hoopr-btn-selected{
+    font-size: 18px;
+    background: linear-gradient(130deg, #FF7B7B 0%, #FF3567 100%);
+    border: 0;
+    color: #fff;
+    letter-spacing: 3px;
+    line-height: 1;
+    outline: transparent;
+    position: relative;
+   }
+
+  .hoopr-btn-primary {
+    font-family: "Bebas Neue", Sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.3em;
+    letter-spacing: 2px;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: transparent;
+    background-image: linear-gradient(130deg, #FF7B7B 0%, #FF3567 100%);
+    border-radius: 0px 20px 0px 20px;
+    padding: 10px 40px 9px 42px;
+   }
+  
+   input{
+    border-bottom-left-radius: 10px ;
+    border-top-right-radius: 10px ;
+    background-color: #636061;
+    border-color: transparent;
+    color:white;
+   }
+
+   input:focus{
+    background-color: #636061;
+    color:white;
+   }
+   input::placeholder{
+     color:antiquewhite;
+   }
+
+   .input-error{
+     color:#FF3567;
+   }
+
+   .col-padding{
+     margin-top: 10px;
+     margin-bottom: 10px;
+   }

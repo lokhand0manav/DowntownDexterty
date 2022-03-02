@@ -1,0 +1,39 @@
+.header-hoopr {
+  background:linear-gradient(to right, rgb(0, 0, 0), rgba(255, 255, 255, 0)), url('/assets/header-poster.png');
+  background-size: cover;
+  padding: 100px 0;
+  margin: 0;
+  text-align: left;
+  position: static;
+  overflow: hidden;
+}
+
+.header-heading {
+  padding: 100px 50px;
+}
+
+.header-hoopr h1 {
+  font-weight: 900;
+}
+
+/*Required for Header*/
+.text-white {
+  color: white;
+}
+
+.text-hoopr {
+  color: #FF3567;
+}
+
+.text-hoopr-header{
+    font-family: "Epilogue", Sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.2em;
+}
+
+.text-hoopr-title{
+  font-family: "Assistant", Sans-serif;
+  font-size: 2.2em;
+  font-weight: 700;
+}

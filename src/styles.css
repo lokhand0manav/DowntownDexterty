@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+app-root {
+    font-family: "Bebas Neue", Sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #222326;
+  }
+
+  img{
+    max-width: 100%;
+    height: auto;
+  }
